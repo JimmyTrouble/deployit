@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lIqqi828eVuQRyYDtw6y+1zzNlPxJmKRDl5XEmNMjg0=",
+  "Source": "deployit",
+  "BasePath": "_content/deployit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
